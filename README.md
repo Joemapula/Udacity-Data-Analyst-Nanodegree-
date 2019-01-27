@@ -1,6 +1,15 @@
 # [Udacity-Data-Analyst-Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) 
 **Goal:** Use Python, SQL, and statistics to uncover insights, communicate critical findings, and create data-driven solutions
 
+Learn to:
+* Wrangle, extract, transform, and load data from various databases, formats, and data
+sources
+* Use exploratory data analysis techniques to identify meaningful relationships, patterns,
+or trends from complex data sets
+* Classify unlabeled data or predict into the future with applied statistics and machine
+learning algorithms
+* Communicate data analysis and findings through effective data visualizations
+
 Projects for my Udacity Data Analyst Nanodegree
 
 ## Welcome to the Nanodegree
