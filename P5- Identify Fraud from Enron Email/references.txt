@@ -1,0 +1,54 @@
+Resources: 
+
+Enron information: 
+https://en.wikipedia.org/wiki/Enron
+https://en.wikipedia.org/wiki/Enron_scandal
+https://www.investopedia.com/updates/enron-scandal-summary/
+https://www.cnn.com/2013/07/02/us/enron-fast-facts/index.html
+https://www.businesstravelnews.com/More-News/Enron-s-Agency-Changes-Name-Reaffirms-Corp-Commitment
+
+General: 
+https://stackoverflow.com/questions/38015181/accuracy-score-valueerror-cant-handle-mix-of-binary-and-continuous
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+Radius Neighbors Classifier: 
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier
+
+Ridge Classifier: 
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html
+
+Pipelines: 
+https://scikit-learn.org/stable/auto_examples/compose/plot_digits_pipe.html#sphx-glr-auto-examples-compose-plot-digits-pipe-py
+https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+https://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html
+
+
+PCA: 
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/2700#2700
+
+
+GridSearchCV: 
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://scikit-learn.org/stable/modules/model_evaluation.html#scoring
+
+KNN: 
+https://scikit-learn.org/stable/modules/neighbors.html
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html#sklearn.neighbors.RadiusNeighborsClassifier
+
+SVC: 
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+Evaluation: 
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+
+Gaussian NB: 
+https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html#sklearn.naive_bayes.GaussianNB
+
+Decision Tree Classifier: 
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+
+
+
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.

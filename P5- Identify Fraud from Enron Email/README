@@ -1,0 +1,20 @@
+Files: 
+
+poi_id.py: 
+a shortened, cleaned version of the file to run. Can be ran as is and will output the final algorithm 
+
+tester.py: 
+tester file created by Udacity with slight modifications for updated StratifiedShuffleSplit. The original wouldn't work with my version of scikit
+	changes specifically to:
+	line 30: cv = StratifiedShuffleSplit(n_splits = folds, random_state = 42)
+
+	line 35: for train_idx, test_idx in cv.split(features, labels):
+
+poi_id_long_output.py: 
+a longer version of the poi_id file with multiple algorithms and outputs, mostly covered in the write up  
+
+Enron_Project: 
+the write up including the 6 questions to be covered and answers 
+
+references.txt: 
+a list of sites used for the project as references 
