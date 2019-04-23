@@ -52,4 +52,8 @@ Understand the importance of data visualization. Know how different data types a
 
 ### Project: Create a Tableau Story
 
-![Nanodegree Certificate](Udacity Nanodegree Graduation Certificate.pdf)
+![Nanodegree Certificate](Udacity Nanodegree Graduation Certificate.png)
+![Nanodegree Certificate](Udacity%20Nanodegree%20Graduation%20Certificate.png)
+![Nanodegree Certificate](Udacity\ Nanodegree\ Graduation\ Certificate.png)
+![Nanodegree Certificate]('Udacity Nanodegree Graduation Certificate'.png)
+![Nanodegree Certificate](copy.png)
