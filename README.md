@@ -51,3 +51,5 @@ Play detective and put your machine learning skills to use by building an algori
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
 
 ### Project: Create a Tableau Story
+
+![Nanodegree Certificate](Udacity Nanodegree Graduation Certificate.pdf)
