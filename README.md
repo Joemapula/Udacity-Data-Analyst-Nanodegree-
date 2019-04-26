@@ -25,7 +25,7 @@ Learn to use descriptive statistics to describe properties of datasets and learn
 ## Intro to Data Analysis
 Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-### Project: Investigate a Dataset
+### Project: Investigate a Dataset - [Titanic Survival](P1-%20Investigate%20a%20Dataset/Titanic%20Survival/) and [The Movie Database Analysis](P1-%20Investigate%20a%20Dataset/Movies/) 
 
 ## Data Wrangling
 Choose a region of the world from www.openstreetmap.org and then use data wrangling techniques to audit and clean the data. You'll then use a database to query the cleaned data.
