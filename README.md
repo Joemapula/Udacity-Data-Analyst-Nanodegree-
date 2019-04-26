@@ -17,7 +17,7 @@ Get started on your Nanodegree and learn how to make the most of Udacity's resou
 
 You’ll also do your first project analyzing bike rental data. It’s a great project to tackle during the first week in your Nanodegree to see if the program is a good fit for you!
 
-### Project: Analyze Bay Area Bike Share Data (Optional)
+### [Project: Analyze Bay Area Bike Share Data (Optional)](Analyze%20Bay%20Area%20Bike%20Share%20Data) 
 
 ## Descriptive Statistics
 Learn to use descriptive statistics to describe properties of datasets and learn about how samples and populations are related.
